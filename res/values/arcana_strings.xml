@@ -265,4 +265,11 @@
     <!-- Optimized charge -->
     <string name="optimized_charge_title">Optimized charging</string>
     <string name="optimized_charge_summary">Limit charging to 75%-80% to extend battery life</string>
+
+    <!-- SELinux Status -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+
 </resources>
