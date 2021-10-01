@@ -23,6 +23,10 @@
     <string name="battery_style_category_title">Battery styles</string>
     <string name="battery_style_category_summary">Change statusbar battery icon style</string>
 
+    <!-- Colorful battery indicator -->
+    <string name="battery_level_colors_title">Toggle colorful battery icon</string>
+    <string name="battery_level_colors_summary">Each battery level drop is color coded</string>
+
     <!-- Dashboard -->
     <string name="grimoire_summary">The Arcanery welcomes your presence.</string>
     <string name="grimoire_title">Grimoire</string>
