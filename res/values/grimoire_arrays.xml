@@ -68,7 +68,11 @@
         <item>@string/status_bar_battery_style_full_circle</item>
         <item>@string/status_bar_battery_style_text</item>
         <item>@string/status_bar_battery_style_icon_rlandscape</item> 
-        <item>@string/status_bar_battery_style_icon_landscape</item> 
+        <item>@string/status_bar_battery_style_icon_landscape</item>
+        <item>@string/status_bar_battery_style_icon_rlandscape_style_a</item>
+        <item>@string/status_bar_battery_style_icon_rlandscape_style_b</item>
+        <item>@string/status_bar_battery_style_icon_landscape_style_a</item>
+        <item>@string/status_bar_battery_style_icon_landscape_style_b</item>
     </string-array>
 
     <string-array name="values_status_bar_battery" translatable="false">
@@ -79,6 +83,10 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
     
     <!-- VoWiFi Icon -->
